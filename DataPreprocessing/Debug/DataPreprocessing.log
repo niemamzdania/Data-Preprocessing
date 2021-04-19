@@ -1,0 +1,25 @@
+﻿  pch.cpp
+  DataPreprocessing.cpp
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\data preprocessing\datapreprocessing\datapreprocessing.cpp(63): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\data preprocessing\datapreprocessing\datapreprocessing.cpp(69): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\data preprocessing\datapreprocessing\datapreprocessing.cpp(82): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\data preprocessing\datapreprocessing\datapreprocessing.cpp(164): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\data preprocessing\datapreprocessing\datapreprocessing.cpp(202): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\data preprocessing\datapreprocessing\datapreprocessing.cpp(214): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\data preprocessing\datapreprocessing\datapreprocessing.cpp(234): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\data preprocessing\datapreprocessing\datapreprocessing.cpp(243): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\data preprocessing\datapreprocessing\datapreprocessing.cpp(249): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\data preprocessing\datapreprocessing\datapreprocessing.cpp(251): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\data preprocessing\datapreprocessing\datapreprocessing.cpp(270): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\data preprocessing\datapreprocessing\datapreprocessing.cpp(291): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\data preprocessing\datapreprocessing\datapreprocessing.cpp(316): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\data preprocessing\datapreprocessing\datapreprocessing.cpp(326): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\data preprocessing\datapreprocessing\datapreprocessing.cpp(360): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\data preprocessing\datapreprocessing\datapreprocessing.cpp(386): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\data preprocessing\datapreprocessing\datapreprocessing.cpp(416): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\data preprocessing\datapreprocessing\datapreprocessing.cpp(438): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\data preprocessing\datapreprocessing\datapreprocessing.cpp(452): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\data preprocessing\datapreprocessing\datapreprocessing.cpp(469): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\data preprocessing\datapreprocessing\datapreprocessing.cpp(503): warning C4018: "<=": niezgodność typu ze znakiem/bez znaku
+d:\chirurg\projekty\c++\sztuczna\przemyslaw.prusik\data preprocessing\datapreprocessing\datapreprocessing.cpp(536): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  DataPreprocessing.vcxproj -> D:\Chirurg\Projekty\C++\Sztuczna\Przemyslaw.Prusik\Data Preprocessing\Debug\DataPreprocessing.exe
